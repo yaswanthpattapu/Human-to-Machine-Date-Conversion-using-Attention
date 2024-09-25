@@ -1,0 +1,9 @@
+#ignore csv files
+*.csv
+
+#ignore pth files
+*.pth
+
+#ignore temp folder
+temp/
+temp/*
